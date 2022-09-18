@@ -1,2 +1,1 @@
-# PHYS-3330
-Electronics Lab
+# PHYS 3330: Electronics Lab
